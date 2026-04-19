@@ -38,7 +38,7 @@ I am currently seeking an **entry-level Data Science/ Data Analyst roles** where
 
 ## 📊 Featured Projects 
 ### 1. Portuguese Bank Marketing Analysis
-👉 Add your GitHub project link here
+👉 https://github.com/bestha-pothulaiah/Portugese-Bank-Market-Analysis.git
 ### 2. Rice Leaf Disease Detection Using CNN
 👉 Add your GitHub project link here
 ### 3. Skin Disorder
