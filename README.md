@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi, I'm Bestha Pothulaiah
 
-<!--
-**bestha-pothulaiah/bestha-pothulaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech Graduate
+- 📊 Aspiring Data Scientist
+- 📍 Andhra Pradesh, India
+- 📧 Email: b.pothulaiah124@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/bestha-pothulaiah-b59a68308
 
-Here are some ideas to get you started:
+# 🚀 About Me
+I am an enthusiastic and motivated **Data Science fresher** with a strong foundation in **Python, SQL, and Machine Learning**. I enjoy working with data to uncover insights and solve real-world problems.
+I am currently seeking an **entry-level Data Science/ Data Analyst roles** where i can contribute and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Tech Skills
+**Programming Languages:**
+- Python, SQL, C
+
+**Data Science & Machine Learning:**
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Hypothesis Testing
+- Feature Engineering
+- Supervised Learning (Classification & Regression)
+
+**Libraries & Tools:**
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Data Visualization:**
+- Power BI, Dashboards, Reports
+
+# 💼 Experience
+### Data Science Intern
+**Rubixe Disruptive Technologies, Bangalore**
+📅 May 2025 – Nov 2025
+- Analyzed sales and lead datasets using Python
+- Performed Exploratory Data Analysis (EDA)
+- Built classification models for lead prediction
+- Applied feature engineering to identify key business drivers
+- Improved model performance through tuning and evaluation
+
+## 📊 Featured Projects 
+### 1. Portuguese Bank Marketing Analysis
+👉 Add your GitHub project link here
+### 2. Rice Leaf Disease Detection Using CNN
+👉 Add your GitHub project link here
+### 3. Skin Disorder
+👉 Add your GitHub project link here
+### 4. Flight Price Prediction
+👉 Add your GitHub project link here
+
+## 📜 Certifications  
+- 🎓 Certified Data Scientist – Datamites  
+- 📊 IABAC Certification  
+- 🏅 NASSCOM Certified Data Scientist
