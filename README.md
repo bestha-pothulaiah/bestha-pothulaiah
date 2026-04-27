@@ -16,8 +16,9 @@ I am currently seeking an **entry-level Data Science/ Data Analyst roles** where
 
 **Data Science & Machine Learning:**
 - Exploratory Data Analysis (EDA)
+- Advance Excel with data analysis
 - Statistical Analysis & Hypothesis Testing
-- Feature Engineering
+- Feature Engineering, Data Preprocessing
 - Supervised Learning (Classification & Regression)
 
 **Libraries & Tools:**
