@@ -45,7 +45,7 @@ I am currently seeking an **entry-level Data Science/ Data Analyst roles** where
 ### 3. Skin Disorder
 👉 https://github.com/bestha-pothulaiah/Skin-Disorder
 ### 4. Flight Price Prediction
-👉 Add your GitHub project link here
+👉 https://github.com/bestha-pothulaiah/Flight_Price_Prediction
 
 ## 📜 Certifications  
 - 🎓 Certified Data Scientist – Datamites  
