@@ -43,7 +43,7 @@ I am currently seeking an **entry-level Data Science/ Data Analyst roles** where
 ### 2. Rice Leaf Disease Detection Using CNN
 👉 https://github.com/bestha-pothulaiah/Rice-Leaf_Disease_Detection_Using_CNN
 ### 3. Skin Disorder
-👉 Add your GitHub project link here
+👉 https://github.com/bestha-pothulaiah/Skin-Disorder
 ### 4. Flight Price Prediction
 👉 Add your GitHub project link here
 
